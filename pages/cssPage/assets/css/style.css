@@ -1,0 +1,51 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.header {
+    height: 10em;
+    padding: 5em;
+    font-size: 2em;
+    background-image: url("../imgs/pollos_hermanos_logo.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.header h1 {
+    margin: 0px;
+    font-weight: 400;
+    color: #bf1b1c;
+}
+
+.header p {
+    color: black;
+}
+
+.products {
+    margin: auto;
+    background-color: #5c8854;
+}
+
+.products td {
+    width: 50%;
+    padding: 2em;
+}
+
+.products img {
+    width: 100%;
+    border: solid 1px #ff0000;
+}
+
+.products p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 2em;
+}
+
+.footer {
+    height: 3em;
+    line-height: 3em;
+    background-color: #bf1b1c;
+    color: white;
+    text-align: center;
+    font-weight: 900;
+}

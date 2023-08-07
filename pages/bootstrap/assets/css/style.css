@@ -1,0 +1,103 @@
+
+.bar {
+    background-color:  #28a745!important;
+}
+
+.logo-white {
+    width: 86px;
+    height: 25px;
+}
+
+.navbar-nav li a{
+    color: white!important;
+}
+
+.active1{
+    font-weight: bold;
+}
+
+.normal {
+    opacity: 80%;
+}
+
+.disabled1{
+    font-weight: lighter;
+    opacity: 30%;
+}
+
+.card-title {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 20px;
+    color: #212529;
+}
+
+.card-text {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 16px;
+    color: #707070;
+}
+
+.card-location {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 13px;
+    color: #707070;
+}
+
+.card-footer{
+    font-family: 'Roboto', sans-serif;
+    background-color: white;
+}
+
+.card .p1{
+    font-weight: 300;
+    font-size: 16px;
+    color: #707070;
+}
+
+.card .p2{
+    font-weight: 500;
+    font-size: 20px;
+    color: #28A745;
+}
+
+form {
+    font-family: 'Roboto', sans-serif;
+    background-color: #28A745;
+    color: white;
+}
+
+.p1-form {
+    font-weight: 500;
+    font-size: 21px;
+}
+
+form input{
+    font-size: 16px!important;
+    font-weight: 300!important;
+    color: #707070!important;
+}
+
+form button{
+    font-size: 16px;
+    font-weight: 500;
+    color: #212529!important;
+    background-color: #F8F9FA!important;
+    border-color: #DDDDDD!important;
+    width: 112.71px;
+    height: 40px;
+}
+
+footer img {
+    width: 82px;
+    height: 24px;
+}
+
+footer p{
+    font-family: 'Roboto', sans-serif;
+    height: 16px;
+    font-weight: 300;
+    color: #707070;
+}
