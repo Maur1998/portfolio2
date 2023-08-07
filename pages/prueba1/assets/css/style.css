@@ -1,0 +1,176 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+}
+
+nav{
+    background-color: #184375;
+}
+
+.nav-link:hover{
+    color: brown!important;
+}
+
+
+body {
+    background-color: white;
+}
+
+/*About*/
+.about-me{
+    font-size: 1rem;
+}
+
+.about-me img{
+    width: 75%;
+    border: 0.25rem solid #0077B5;;
+    border-radius: 50%;
+}
+
+.col2{
+    border: 0.5rem solid #0077B5;;
+}
+
+.about-element h1{
+    color: #0077B5;
+}
+
+.about-me p{
+    font-weight: 500;
+}
+
+.about-me li{
+    font-weight: 500;
+}
+
+.strong{
+    color: #0077B5;
+}
+
+/*Portfolio*/
+.portfolio a{
+    font-weight: 700;
+    text-decoration: underline;
+    color: #0077B5;
+    font-size: 3rem;
+}
+
+.portfolio a:hover{
+    color: blue;
+}
+
+/*Education*/
+.education .row {
+    background-color: #14539a;
+    list-style: none;
+}
+
+.education .header{
+    font-weight: 700;
+    color: darkgray;
+    font-size: 4rem;
+}
+
+.list-item {
+    list-style: none;
+}
+
+.list-item h2 {
+    font-size: 2rem;
+}
+
+.list-item p {
+    font-size: 1rem;
+    color: lightgray;
+}
+
+/*Experience*/
+.experience-header{
+    font-weight: 700;
+    font-size: 4rem;
+}
+
+.experience .card {
+    border: solid #0077B5;
+}
+
+.experience .card:hover{
+    color: #0077B5;
+    border: none;
+}
+
+.card-title {
+    font-weight: 700;
+}
+
+.card-text{
+    font-weight: 500;
+}
+
+.experience .card{
+    background-color: lightgray;
+}
+
+.card-body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+/*Footer*/
+.footer {
+    background-color: #0d3562;
+    line-height: 3em;
+    color: white;
+    text-align: center;
+}
+
+.footer .element{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+}
+
+.email{
+    text-decoration: none;
+    color: white;
+}
+
+.linkedin{
+    text-decoration: none;
+    color: white;
+}
+
+.linkedin:hover {
+    cursor: pointer;
+    color: #0077B5;
+}
+
+/*Potfolio*/
+.portfolio-link{
+    color: black;
+}
+
+.return-to-cv:hover{
+    color: darkgray!important;
+}
+
+.portfolio-section h1{
+    font-weight: 700;
+    color: #0077B5;
+    font-size: 3rem;
+}
+
+.portfolio-section a{
+    width: 50%;
+    align-self: center;
+    margin-top: auto;
+}
+.portfolio-section .card{
+    background-color: #184375; 
+    color: white;
+}
